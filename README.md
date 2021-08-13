@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash6898" alt="ash6898" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Adobe Experience Manager**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision**
+- 💬 Ask me about **Python, Java**
 
 - 📫 How to reach me 
 **aakash.baskaran.1305@gmail.com**
