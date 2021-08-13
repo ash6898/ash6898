@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Aakash</h1>
-<h3 align="center">Passionate about Deep Learning and Computer Vision</h3>
+<h3 align="center">Passionate about Python, DataScience </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash6898" alt="ash6898" /> </p>
 
@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash6898&layout=compact" alt="ash6898" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ash6898&show_icons=true" alt="ash6898" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ash6898&show_icons=true" alt="ash6898" /></p>
