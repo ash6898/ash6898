@@ -1,16 +1,18 @@
+
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aakash</h1>
+<h3 align="center">Passionate about Deep Learning and Computer Vision</h3>
 
-<!--
-**ash6898/ash6898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ash6898" alt="ash6898" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Machine Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision**
+
+- 📫 How to reach me 
+**aakash.baskaran.1305@gmail.com**
+**www.linkedin.com/in/aakashbaskaran**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash6898&layout=compact" alt="ash6898" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ash6898&show_icons=true" alt="ash6898" /></p>
