@@ -2,13 +2,14 @@
 
 # 👋 Hey, I'm Aakash Baskaran
 
-### Java & Kotlin Developer → Transitioning into Data Engineering
+### Java & Kotlin Developer | AEM · Android · Spring Boot | Building Data Engineering Skills
 
-*Building on 3+ years of software engineering to move into the data world*
+*Building on 2+ years of software engineering to move into the data world*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aakashbaskaran-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aakashbaskaran)
 [![Email](https://img.shields.io/badge/Email-aakash.baskaran.1305@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aakash.baskaran.1305@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Toronto,_Ontario,_Canada-red?style=flat)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aakashbaskaran-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aakashbaskaran)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ash6898.github.io-D14836?style=flat&logo=github&logoColor=white)](https://ash6898.github.io/Aakash-Baskaran/)
+[![Location](https://img.shields.io/badge/📍-Toronto,_Ontario,_Canada-0077B5?style=flat)](#)
 
 </div>
 
@@ -16,12 +17,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a software engineer with professional experience in **Java backend** and **Android development**, currently deepening my expertise in **Adobe Experience Manager (AEM)** while actively transitioning into **Data Engineering**.
-
-I enjoy building things end-to-end — from mobile apps to streaming data pipelines — and I'm always working on something new.
+I'm a software engineer with 2+ years of experience in Java backend and Android development, currently deepening my AEM expertise while expanding into Data Engineering.
 
 - 💼 **Previously:** Java Backend @ **Accenture** · Android Developer @ **Zoho**
-- 🏗️ **Currently focused on:** AEM development (OSGi · Sling Models · HTL) + Data Engineering foundations
+- 🏗️ Currently deepening expertise in **Adobe Experience Manager (AEM)**
+- 📊 Expanding skills into **Data Engineering** — Kafka · Apache Beam · Spark
 - 🎯 **Certification:** AEM Sites Developer Professional *(in progress)*
 - 🍞 **Side project:** Learning the art of baking — currently perfecting Japanese cheesecake
 - 📍 **Based in:** Toronto, Ontario, Canada
