@@ -82,6 +82,7 @@ A production-style Lambda architecture pipeline ingesting live Wikipedia edit ev
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 🟣 [Cheesecake Site — Headless AEM Stack](https://github.com/ash6898/cheesecake-site-headless) | Production food vending site built on the exact stack AEM runs on — Apache Sling, OSGi, JCR, Apache httpd, Next.js | Apache Sling · OSGi · JCR · Apache httpd · Next.js · Docker |
 | 🔴 [Wikimedia Real-Time Pipeline](https://github.com/ash6898/wikimedia-pipeline) | End-to-end Lambda architecture pipeline on live Wikimedia edit stream | Kafka · Apache Beam · PySpark · PostgreSQL · Docker |
 | 🔵 [AEM Component Library](https://github.com/ash6898/aem-component-library) | Reusable AEM components — page, hero, project cards, contact form, footer | AEM 6.5 · OSGi · Sling Models · HTL · Maven |
 | 🟢 [Aakash Portfolio — Apache Sling](https://github.com/ash6898/aakash-portfolio) | Portfolio site built with Apache Sling to learn AEM dev patterns without proprietary licensing | Apache Sling · HTL · Sling Models · JCR · Maven |
