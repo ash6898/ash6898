@@ -1,58 +1,44 @@
-<div align="center">
+# Hi, I'm Aakash Baskaran 👋
 
-# Hey, I'm Aakash Baskaran
+**Java developer** in Toronto, ON, working across **Adobe Experience Manager (AEM)**, **Spring Boot**, **Android/Kotlin** and **streaming data pipelines**.
 
-### IT Support & Application Support | CompTIA A+ Core 1 | Former Software Engineer (Zoho, Accenture)
-
-*Applying a software engineering background to support, troubleshoot, and keep systems running*
-
-[![Email](https://img.shields.io/badge/Email-aakash.baskaran.1305@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aakash.baskaran.1305@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aakashbaskaran-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aakashbaskaran)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ash6898.github.io-D14836?style=flat&logo=github&logoColor=white)](https://ash6898.github.io/Aakash-Baskaran/)
-[![Location](https://img.shields.io/badge/📍-Toronto,_Ontario,_Canada-0077B5?style=flat)](#)
-
-</div>
+- 24 months of industry experience: Android Developer at **Zoho** (communication app, 100,000+ active users) and AEM Platform Associate at **Accenture** for client **Chubb Insurance**
+- Canadian post-graduate diplomas in **Big Data Solutions Architecture** (Conestoga College) and **Data Analytics** (Durham College)
+- Preparing for Adobe Certified Expert, AEM Sites Developer Professional (AD0-E123)
+- Open work permit, so I can work for any Canadian employer without sponsorship
 
 ---
 
-## About Me
+## 🛠 Tech stack
 
-Computer science graduate and former software engineer at Zoho and Accenture, now targeting IT support and application support roles. I bring hands-on experience with Java, Kotlin, AEM, APIs, databases, Docker, and troubleshooting, along with more than two years of customer-facing experience in the GTA. I passed CompTIA A+ Core 1 with a score of 802/900 and am preparing for Core 2.
-
----
-
-## Why Support
-
-I'm moving into support because it combines the parts of my background I do best: investigating technical issues, understanding how systems work, and communicating clearly with users. My software engineering experience helps me troubleshoot beyond surface-level symptoms, while my recent customer-facing work has strengthened my patience, reliability, and ability to work under pressure.
-
----
-
-## Recent Projects
-
-**cheesecake-site-headless** (Apr-May 2026)
-Headless e-commerce build mirroring AEM architecture on open-source Apache Sling: OSGi servlets, JCR content, GraphQL-style endpoints, an Apache httpd dispatcher layer with proxy/cache/rewrite, Next.js frontend, Docker, Maven multi-module.
-https://github.com/ash6898/cheesecake-site-headless
-
-**wikimedia-pipeline** (Mar-Apr 2026)
-Real-time streaming pipeline: Wikimedia SSE → Kafka → Apache Beam micro-batches → PostgreSQL → PySpark analytics, with Docker Compose infrastructure and full quick-start docs.
-https://github.com/ash6898/wikimedia-pipeline
-
-**aem-component-library** (Apr 2026)
-Reusable AEM/Sling components: HTL, Sling Models, OSGi services, dialogs, clientlibs.
-https://github.com/ash6898/aem-component-library
-
-**BigStarCollectibles** (Feb 2026)
-Spring Boot e-commerce app: JPA, interceptors, validators, REST controllers with exception handling, i18n.
-https://github.com/ash6898/BigStarCollectibles
+| Area | Tools |
+|---|---|
+| Languages | Java · Kotlin · Python · SQL · JavaScript · HTML · CSS · HTL |
+| AEM / Sling | AEM 6.x Sites · AEM DAM · HTL · Sling Models · OSGi Declarative Services · JCR · FileVault packages · Apache httpd (Dispatcher-style) |
+| Backend | Spring Boot · Spring MVC · Spring Data JPA · REST APIs · Thymeleaf · Maven · MySQL · PostgreSQL |
+| Android | Android SDK · Jetpack Compose · MVVM · Clean Architecture · Retrofit · OkHttp · WebRTC · Gradle |
+| Data | Kafka · Apache Beam · Spark / PySpark · Hadoop/HDFS · pandas |
+| Tools | Git · Docker Compose · IntelliJ IDEA · Android Studio · VS Code · JIRA · Confluence |
 
 ---
 
-## Tech Stack
+## 📌 Featured projects
 
-**Support & systems:** Windows · Linux · Git · Docker · PostgreSQL · REST APIs · Postman · networking fundamentals
-
-**Engineering:** Java · Kotlin · Python · Spring Boot · SQL · AEM (Sling Models · OSGi · HTL) · Kafka · Apache Beam · Spark
+| Project | What it is | Stack |
+|---|---|---|
+| [cheesecake-site-headless](https://github.com/ash6898/cheesecake-site-headless) | Headless website for my Japanese cheesecake business on a stack that mirrors AEM headless: OSGi servlets serve JCR content as JSON to a Next.js frontend, behind a Dispatcher-style httpd cache, all in Docker Compose | Java · Apache Sling · OSGi · JCR · Next.js · httpd · Docker |
+| [aem-component-library](https://github.com/ash6898/aem-component-library) | 7 reusable HTL components backed by 4 Sling Models, with clientlibs and a multi-module Maven build (core, ui.apps, ui.content) | Java · HTL · Sling Models · OSGi · Maven |
+| [BigStarCollectibles](https://github.com/ash6898/BigStarCollectibles) | Spring Boot e-commerce app: JPA repositories, validated registration, searchable catalog, session cart, REST API with custom exception handling, English/Tamil i18n | Java 17 · Spring Boot · Spring Data JPA · Thymeleaf · MySQL |
+| [wikimedia-pipeline](https://github.com/ash6898/wikimedia-pipeline) | Lambda-architecture pipeline: live Wikimedia edits → Kafka (KRaft) → 60-second Apache Beam windows → PostgreSQL → PySpark batch analytics | Python · Kafka · Apache Beam · PySpark · PostgreSQL · Docker |
+| [GitHub-Trending-Repositories](https://github.com/ash6898/GitHub-Trending-Repositories) | Android app listing trending GitHub repos, with offline cache and search | Kotlin · MVVM · Room · LiveData |
+| [Bigdata-Final-Project](https://github.com/ash6898/Bigdata-Final-Project) | News articles streamed through Kafka to HDFS, then Spark Structured Streaming aggregations in 10-second watermarked windows (Conestoga College) | Python · Kafka · HDFS · Spark Streaming |
 
 ---
 
-*Open to conversations about IT support and application support roles across Ontario.*
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/aakashbaskaran](https://www.linkedin.com/in/aakashbaskaran)
+- Email: aakash.baskaran.1305@gmail.com
+- Portfolio: [ash6898.github.io/Aakash-Baskaran](https://ash6898.github.io/Aakash-Baskaran/)
+
+*I'm open to Software Developer, Java Developer, AEM Developer and Android Developer roles in Canada.*
