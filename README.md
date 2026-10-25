@@ -2,7 +2,7 @@
 
 **Java developer** in Toronto, ON, working across **Adobe Experience Manager (AEM)**, **Spring Boot**, **Android/Kotlin** and **streaming data pipelines**.
 
-- 24 months of industry experience: Android Developer at **Zoho** (communication app, 100,000+ active users) and Associate Software Developer (AEM Platform) at **Accenture** for client **Chubb Insurance**
+- Nearly two years of industry experience: Android Developer at **Zoho** (communication app, 100,000+ active users) and Associate Software Developer (AEM Platform) at **Accenture** for client **Chubb Insurance**
 - Canadian post-graduate diplomas in **Big Data Solutions Architecture** (Conestoga College) and **Data Analytics** (Durham College)
 - Preparing for Adobe Certified Expert, AEM Sites Developer Professional (AD0-E123)
 - Open work permit, so I can work for any Canadian employer without sponsorship
